@@ -1,0 +1,2 @@
+# Szoftvertech_bead
+Szoftvertechnologiák tantárgy esszéfeladat programja
