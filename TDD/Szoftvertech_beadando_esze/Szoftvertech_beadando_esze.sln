@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoftvertech_beadando_esze", "Szoftvertech_beadando_esze\Szoftvertech_beadando_esze.csproj", "{66C5BA9B-4A4D-4356-931C-75F353215F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoftvertech_beadando_esze_teszt", "Szoftvertech_beadando_esze_teszt\Szoftvertech_beadando_esze_teszt.csproj", "{34FCAC90-ED3B-4E75-9BFD-C0C8C21EC29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C5BA9B-4A4D-4356-931C-75F353215F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C5BA9B-4A4D-4356-931C-75F353215F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C5BA9B-4A4D-4356-931C-75F353215F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C5BA9B-4A4D-4356-931C-75F353215F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FCAC90-ED3B-4E75-9BFD-C0C8C21EC29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FCAC90-ED3B-4E75-9BFD-C0C8C21EC29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FCAC90-ED3B-4E75-9BFD-C0C8C21EC29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FCAC90-ED3B-4E75-9BFD-C0C8C21EC29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC58370-B51E-4107-978A-5930286E5987}
+	EndGlobalSection
+EndGlobal

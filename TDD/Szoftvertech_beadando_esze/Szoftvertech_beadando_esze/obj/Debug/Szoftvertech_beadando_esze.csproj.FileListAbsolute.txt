@@ -1,0 +1,6 @@
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\bin\Debug\Szoftvertech_beadando_esze.dll
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\bin\Debug\Szoftvertech_beadando_esze.pdb
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\obj\Debug\Szoftvertech_beadando_esze.csprojAssemblyReference.cache
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\obj\Debug\Szoftvertech_beadando_esze.csproj.CoreCompileInputs.cache
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\obj\Debug\Szoftvertech_beadando_esze.dll
+D:\SULI\5.félév\Szoftvertech\Beadandó\TDD\Szoftvertech_beadando_esze\Szoftvertech_beadando_esze\obj\Debug\Szoftvertech_beadando_esze.pdb
