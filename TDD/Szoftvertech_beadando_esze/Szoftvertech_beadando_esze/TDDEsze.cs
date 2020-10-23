@@ -9,9 +9,9 @@ namespace Szoftvertech_beadando_esze
     public class TDDesze
 
     {
-        public static string GetValue(int input)
+        public static int GetValue(int input)
         {
-            return string.Empty;
+            return input;
         }
     }
 }
